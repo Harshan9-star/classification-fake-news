@@ -279,11 +279,8 @@ If you find this project useful, please consider giving it a star!
 
 ## 🔗 Links
 
-- [Live Demo](https://huggingface.co/spaces/yourusername/fake-news-detector)
+- [Live Demo]([https://huggingface.co/spaces/Harshan369/Fake-News-Classification-Comparison])
 - [Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
-- [Documentation](https://github.com/yourusername/fake-news-detector/wiki)
-- [Report Bug](https://github.com/yourusername/fake-news-detector/issues)
-- [Request Feature](https://github.com/yourusername/fake-news-detector/issues)
 
 ---
 
