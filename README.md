@@ -100,7 +100,7 @@ pip (Python package manager)
 
 ## 🏗 Project Structure
 
-
+`
 fake-news-detector/
 │
 ├── app.py                      # Main Gradio application
@@ -116,7 +116,7 @@ fake-news-detector/
 └── vectorizers/               # TF-IDF vectorizers
     ├── lemma.pkl
     └── stem.pkl
-
+`
 
 ## 🔧 Technical Details
 
