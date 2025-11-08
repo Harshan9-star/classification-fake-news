@@ -100,23 +100,21 @@ pip (Python package manager)
 
 ## 🏗 Project Structure
 
-`
-fake-news-detector/
-│
-├── app.py                      # Main Gradio application
-├── fake_news_models.zip        # Pre-trained models (optional)
-├── requirements.txt            # Python dependencies
-├── README.md                   # This file
-│
-├── models/                     # Exported models directory
-│   ├── Naive Bayes_lemma.pkl
-│   ├── Naive Bayes_stem.pkl
-│   └── ...
-│
-└── vectorizers/               # TF-IDF vectorizers
-    ├── lemma.pkl
-    └── stem.pkl
-`
+- fake-news-detector/
+- │
+- ├── app.py                      # Main Gradio application
+- ├── fake_news_models.zip        # Pre-trained models (optional)
+- ├── requirements.txt            # Python dependencies
+- ├── README.md                   # This file
+- │
+- ├── models/                     # Exported models directory
+- │   ├── Naive Bayes_lemma.pkl
+- │   ├── Naive Bayes_stem.pkl
+- │   └── ...
+- │
+- └── vectorizers/               # TF-IDF vectorizers
+    - ├── lemma.pkl
+    - └── stem.pkl
 
 ## 🔧 Technical Details
 
