@@ -277,7 +277,7 @@ If you find this project useful, please consider giving it a star!
 
 ## 🔗 Links
 
-- [Live Demo]([https://huggingface.co/spaces/Harshan369/Fake-News-Classification-Comparison])
+- [Live Demo](https://huggingface.co/spaces/Harshan369/Fake-News-Classification-Comparison)
 - [Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 ---
